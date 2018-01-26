@@ -6,8 +6,6 @@ Untested Data Sources:
 * London: http://www.nhm.ac.uk/our-science/data.html
 * Los Angeles: https://nhm.org/site/activities-programs/citizen-science
 
-
-
 # Marine Data
 
 * IAEA Marine Information: https://maris.iaea.org/
@@ -18,3 +16,7 @@ Untested Data Sources:
 * Biodiversity data: https://www.gbif.org/
 * Atlas of Living, Autralia: http://www.ala.org.au/
 * http://www.biocase.org/
+* Halos: https://holos.berkeley.edu/explore/#&q=&page_size=100
+  * was built over the last few years to integrate a bunch of diverse data sets, with associated tools
+* Reserve mapper: http://reservemapper.berkeley.edu/
+   * Overlay the museum data ith field station shapefiles.
