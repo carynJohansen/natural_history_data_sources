@@ -1,4 +1,4 @@
-# Natural History Museum Data
+# Natural History Museum Collection Data
 
 * [Berkeley Natural History Museum](https://bnhm.berkeley.edu/informatics/collection-databases/)
 * [London Naural History Museum](http://www.nhm.ac.uk/our-science/data.html)
